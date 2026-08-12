@@ -1,0 +1,9 @@
+com\customadvsee\AdvancementNames.class
+com\customadvsee\AdvancementResult.class
+com\customadvsee\AdvancementGuiBuilder.class
+com\customadvsee\AdvancementGuiHolder.class
+com\customadvsee\ChatColorCompat.class
+com\customadvsee\CustomAdvancementViewerPlugin.class
+com\customadvsee\AdvancementGuiListener.class
+com\customadvsee\AdvancementDataReader.class
+com\customadvsee\CustomAdvSeeCommand.class
